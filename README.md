@@ -4,7 +4,7 @@ https://menu-static-webpage.netlify.app/
 
 **#About this project**
 
-This menu is designed using React. There are four button in the website and I have used the concept filter. In all button, there are list of availble dishes whereas in breakfast button, there is list of only breakfast dishes (used concent of filter). The rest of remaining button work in similar manner. Moreover, I have used CSS for making the website more attractive.
+This menu is designed using React. There are four button in the website and I have used the concept of map.filter(). In all button, there are list of availble dishes whereas in breakfast button, there is list of only breakfast dishes (used concent of map.filter()). The rest of remaining button work in similar manner. Moreover, I have used CSS for making the website more attractive and responsive. This is webpage is responsive for all mobile, tablet and laptop devices.
 
 # Getting Started with Create React App
 
