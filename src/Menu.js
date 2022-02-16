@@ -25,10 +25,10 @@ const Menu =()=>{
   
     return <>
       <div className='buttons'>
-      <button className='btn' onClick={()=>setMenu(data)}>All</button>
-      <button className='btn' onClick={()=>Breakfast()}>Breakfast</button>
-      <button className='btn' onClick={() => Lunch()}>Lunch</button>
-      <button className='btn'onClick={() => Shakes()}>Shakes</button>
+      <button className='btn' style={{fontWeight:"bolder"}} onClick={()=>setMenu(data)}>All</button>
+      <button className='btn' style={{fontWeight:"bolder"}} onClick={()=>Breakfast()}>Breakfast</button>
+      <button className='btn' style={{fontWeight:"bolder"}} onClick={() => Lunch()}>Lunch</button>
+      <button className='btn' style={{fontWeight:"bolder"}} onClick={() => Shakes()}>Shakes</button>
       </div>
   
           <div className='dish container'>
